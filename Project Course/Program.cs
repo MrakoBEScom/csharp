@@ -26,6 +26,7 @@ class Program
         // git add . Добавляет всё в локальный репозиторий
         // git branch forum Я создаю новую ветку с названием forum
         // git checkout forum Я перешел на ветку с названием forum
+        // git checkout -b forum Я создаю и сразу перехожу на новую ветку
         // git merge forum Находясь на основной ветке master я присоединяю к ней ветку forum
     }
 
