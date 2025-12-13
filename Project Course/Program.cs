@@ -13,7 +13,17 @@ class Program
     public static void Main()
     {
         Console.WriteLine("Hello!");
+
+        // Вот эти команды добаляют файл в репозиторий
+
+        // git add *.cs Добавляет все файлы у которых расширение .cs 
+        // git status Статистика
+        // git commit -m ""  Коммит
+        // git rm -r --cached . Удаляет вообще всё 
+        // git rm --cached *.cs Удаляет все файлы у которых расширение .cs 
     }
-    
+
+
+
 
 }
