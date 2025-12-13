@@ -23,7 +23,9 @@ class Program
         // git commit -m ""  Коммит
         // git rm -r --cached . Удаляет вообще всё 
         // git rm --cached *.cs Удаляет все файлы у которых расширение .cs 
-        // git add . Добавляет вся в локальный репозиторий
+        // git add . Добавляет всё в локальный репозиторий
+        // git branch forum Я создаю новую ветку с названием forum
+        // git checkout forum Я перешел на ветку с названием forum
     }
 
 
