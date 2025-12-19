@@ -34,6 +34,9 @@ class Program
 
         // Я отключаюсь от удаленного репозитория с названием origin
         // git remote remove origin
+
+        // Это команда выгружат ветку master на удаленный репозиторий origin
+        // git push -u origin master
     }
 
 
