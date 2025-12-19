@@ -40,6 +40,9 @@ class Program
 
         // Копирует весь репозиторий в выбранную папку
         // git clone https://github.com/MrakoBEScom/csharp.git
+
+        // Cкачивает последнюю версию проекта
+        // git pull
     }
 
 
