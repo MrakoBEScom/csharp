@@ -37,6 +37,9 @@ class Program
 
         // Это команда выгружат ветку master на удаленный репозиторий origin
         // git push -u origin master
+
+        // Копирует весь репозиторий в выбранную папку
+        // git clone https://github.com/MrakoBEScom/csharp.git
     }
 
 
