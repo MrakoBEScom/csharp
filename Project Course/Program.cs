@@ -28,6 +28,12 @@ class Program
         // git checkout forum Я перешел на ветку с названием forum
         // git checkout -b forum Я создаю и сразу перехожу на новую ветку
         // git merge forum Находясь на основной ветке master я присоединяю к ней ветку forum
+
+        // Тут идет подключение к удаленному репозиторию с названием origin
+        // git remote add origin https://github.com/MrakoBEScom/csharp.git
+
+        // Я отключаюсь от удаленного репозитория с названием origin
+        // git remote remove origin
     }
 
 
